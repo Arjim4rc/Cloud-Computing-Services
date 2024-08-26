@@ -1,4 +1,4 @@
-<img align="center" src="https://miro.medium.com/v2/resize:fit:1326/1*fb5qImPRFI0Fg-fQ5aw-Mg.gif"/>
+<img style="margin: 20px" src="https://miro.medium.com/v2/resize:fit:1326/1*fb5qImPRFI0Fg-fQ5aw-Mg.gif"/>
 <h1 align="center">Hi 👋, I'm RJ Marc Villanueva Daligdig</h1>
 <h3 align="center">A passionate Information Systems student from the Philippines</h3>
 
