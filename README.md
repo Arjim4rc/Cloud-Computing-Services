@@ -84,4 +84,10 @@ In contrast, with Cloud Computing, a cloud service provider handles hardware pro
 <img  src="https://cms.webcreatify.com/gallery/1273-cloud-computing-2.png">
 
 <h2 align="left">References: </h2>
+<p>
+	<ul>
+		<li>Introduction To Cloud Computing - javatpoint. (n.d.). www.javatpoint.com. https://www.javatpoint.com/introduction-to-cloud-computing</li>
+		<li>Rishav Chanda. (2022, January 1). Next Level GitHub Profile README (NEW 2022)(Markdown template) | Improve Your Github profiles [Video]. YouTube. https://www.youtube.com/watch?v=G-EGDH50hGE</li>
+	</ul>
+</p>
 
