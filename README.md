@@ -43,7 +43,24 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjim4rc&show_icons=true&locale=en" alt="arjim4rc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjim4rc&" alt="arjim4rc" /></p>
-
 <hr>
-<h2 align="left">Subject: </h2>
+<h2 align="left">Introduction: </h2>
+<p> <strong>Cloud Computing</strong> refers to the provision of various computing services including servers, storage, databases, networking, software, analytics, and intelligence via the Internet (the “Cloud”). It offers a substitute for traditional on-premises data centers. In an on-premises setup, all aspects must be managed internally, including purchasing and installing hardware, setting up virtualization, installing operating systems and necessary applications, configuring networks, establishing firewalls, and organizing data storage. After the initial setup, ongoing maintenance throughout the system's life cycle is required.
+In contrast, with Cloud Computing, a cloud service provider handles hardware procurement and maintenance. They also offer a broad range of software and platform services that can be utilized as needed. These services are typically available on a rental basis, with costs determined by the level of usage.
+</p>
+<img width="1000" src="https://media.licdn.com/dms/image/D4E12AQFU0fEtQwW-ww/article-cover_image-shrink_720_1280/0/1678784488909?e=2147483647&v=beta&t=pAFzsQmfrXZG-hGaJnLEzW1lWI-bApNOdGQTRLe_VHQ"/>
+
+<h2 align="left">Advantages of Cloud Computing: </h2>
+<p>
+	<ul>
+		<li><strong>Cost:</strong> It reduces the huge capital costs of buying hardware and software.</li>
+		<li><strong>Speed:</strong> Resources can be accessed in minutes, typically within a few clicks.</li>
+		<li><strong>Scalability:</strong> We can increase or decrease the requirement of resources according to the business requirements.</li>
+		<li><strong>Productivity:</strong> While using cloud computing, we put less operational effort. We do not need to apply patching, as well as no need to maintain hardware and software. So, in this way, the IT team can be more productive and focus on achieving business goals.</li>
+    <li><strong>Reliability:</strong> Backup and recovery of data are less expensive and very fast for business continuity.</li>
+    <li><strong>Security:</strong> Many cloud vendors offer a broad set of policies, technologies, and controls that strengthen our data security.</li>
+	</ul>
+</p>
+
+
+
