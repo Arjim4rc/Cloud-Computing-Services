@@ -62,5 +62,26 @@ In contrast, with Cloud Computing, a cloud service provider handles hardware pro
 	</ul>
 </p>
 
+<h2 align="left">Types of Cloud Computing: </h2>
+<img src="https://www.proact.eu/wp-content/uploads/2023/05/deployment-models-3.gif">
+<p>
+	<ul>
+		<li><strong>Public Cloud:</strong> The cloud resources that are owned and operated by a third-party cloud service provider are termed as public clouds. It delivers computing resources such as servers, software, and storage over the internet.</li>
+		<li><strong>Private Cloud:</strong> The cloud computing resources that are exclusively used inside a single business or organization are termed as a private cloud. A private cloud may physically be located on the company’s on-site datacentre or hosted by a third-party service provider.</li>
+		<li><strong>Hybrid Cloud:</strong> It is the combination of public and private clouds, which is bounded together by technology that allows data applications to be shared between them. Hybrid cloud provides flexibility and more deployment options to the business.</li>
+	</ul>
+</p>
 
+<h2 align="left">Types of Cloud Services: </h2>
+<img width="1000" height="500" src="https://i.pinimg.com/originals/fc/fc/08/fcfc08a3901cbb647bb6e5b53050cc83.gif">
+<p>
+	<ul>
+		<li><strong>Infrastructure as a Service (IaaS):</strong> In IaaS, we can rent IT infrastructures like servers and virtual machines (VMs), storage, networks, operating systems from a cloud service vendor. We can create VM running Windows or Linux and install anything we want on it. Using IaaS, we don’t need to care about the hardware or virtualization software, but other than that, we do have to manage everything else. Using IaaS, we get maximum flexibility, but still, we need to put more effort into maintenance.</li>
+		<li><strong>Platform as a Service (PaaS):</strong> This service provides an on-demand environment for developing, testing, delivering, and managing software applications. The developer is responsible for the application, and the PaaS vendor provides the ability to deploy and run it. Using PaaS, the flexibility gets reduce, but the management of the environment is taken care of by the cloud vendors.</li>
+		<li><strong>Software as a Service (SaaS):</strong> It provides a centrally hosted and managed software services to the end-users. It delivers software over the internet, on-demand, and typically on a subscription basis. E.g., Microsoft One Drive, Dropbox, WordPress, Office 365, and Amazon Kindle. SaaS is used to minimize the operational cost to the maximum extent.</li>
+	</ul>
+</p>
+<img  src="https://cms.webcreatify.com/gallery/1273-cloud-computing-2.png">
+
+<h2 align="left">References: </h2>
 
